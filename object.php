@@ -13,3 +13,4 @@ echo "Country : $person->country" . PHP_EOL;
 $person2 = new Person();
 
 $person->sayHello("Bayu");
+$person->sayHello(null);
