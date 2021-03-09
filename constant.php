@@ -8,5 +8,5 @@ echo APP_VERSION . PHP_EOL;
 
 echo Person::AUTHOR . PHP_EOL;
 
-$person = new Person();
+$person = new Person("Bayu", "gg Rahayu");
 $person->konstanta();
