@@ -2,6 +2,6 @@
 
 class Person {
     var $name;
-    var $addres;
+    var $address;
     var $country;
 }
