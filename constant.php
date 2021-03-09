@@ -1,5 +1,5 @@
 <?php
-require_once "data/person.php";
+require_once "data/Person.php";
 define ("APPLICATION", "Aplikasi saya");
 const APP_VERSION = "1.0.0";
 
